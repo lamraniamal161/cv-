@@ -1,0 +1,82 @@
+/* html { 
+    background-image: url(O.jpg) ; 
+    font-weight: 100%;
+    font-size:100% ;
+    background-repeat: no-repeat;
+    background-size:cover;
+ }
+ table{
+    background-image: url(O.jpg) ; 
+    font-weight: 100%;
+    font-size:100% ;
+    background-repeat: no-repeat;
+    background-size:cover;
+ } */
+ 
+ 
+ .section1{
+     background-color: #f8f5f5;
+     max-width: 350px;
+     float: left;
+     margin: 0 auto;
+     padding-top: 20px;
+     padding-right: 40px;
+     padding-bottom: 90px ;
+     padding-left: 20px;
+     box-shadow: 5px 5px 0 0 rgba(113, 108, 108, 0.2);
+     border-radius: 55px;
+ }
+ .section {
+         background-color: rgb(219, 208, 195);
+         background-size: auto;
+         padding-top: 20px;
+         padding-right: 40px;
+         padding-bottom: 100px;
+         padding-left: 39%;
+        
+
+       box-shadow: 5px 5px 0 0 rgba(225, 231, 233, 0.2);
+        /* float: right; */
+ }
+ .im img {
+      width: 250px;
+      height: 250px;
+      overflow: hidden;
+
+      border-radius: 50%;
+      border: 9px rgb(9, 9, 9) groove;
+      
+ }
+ 
+ .section em {
+   font-size: 70px;
+ }
+ .container h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+ 
+
+
+
+ /* h1 {
+     text-align: center;
+ } */
+ /* .section {
+     margin-bottom: 20px;
+ }
+ .section h2 {
+     border-bottom: 1px solid #ccc;
+     padding-bottom: 5px;
+ }
+ .section p {
+     margin: 0;
+ }
+ ul {
+     list-style-type: square;
+     margin: 0;
+     padding: 0;
+ }
+ li {
+     margin: 5px 0;
+ } */
